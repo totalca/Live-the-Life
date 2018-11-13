@@ -1,10 +1,9 @@
 @font-face {
   font-family: 'live-the-life';
-  src:  url('fonts/live-the-life.eot?jtx80h');
-  src:  url('fonts/live-the-life.eot?jtx80h#iefix') format('embedded-opentype'),
-    url('fonts/live-the-life.ttf?jtx80h') format('truetype'),
-    url('fonts/live-the-life.woff?jtx80h') format('woff'),
-    url('fonts/live-the-life.svg?jtx80h#live-the-life') format('svg');
+  src:
+    url('asset/font/live-the-life.ttf?jtx80h') format('truetype'),
+    url('asset/font/live-the-life.woff?jtx80h') format('woff'),
+    url('asset/font/live-the-life.svg?jtx80h#live-the-life') format('svg');
   font-weight: normal;
   font-style: normal;
 }

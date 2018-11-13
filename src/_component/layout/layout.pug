@@ -25,8 +25,9 @@
                         h2 !{line}
               
             section(class=`menu__item ${quote.title}` bla=quote.title)
-              label.menu__link(href=slug(`#${quote.title}`) for=`quote-${i}`)
+              label.menu__link(href=slug(`#${quote.title}`) for=`quote-${i}`
+              class=`menu__link live-the-life-${quoteIcon}` )
               div.menu__label #{quote.title}
             - i++;
-      label.menu__back_button.live-the-life__icon--menu3(for="menu__back_button")
+      label.menu__back_button.live-the-life-home(for="menu__back_button")
           span.menu__label__content Menu
