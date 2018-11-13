@@ -22,3 +22,33 @@
   flex-direction: column;
   list-style-type: none;
 }
+
+#menu__back__button:checked ~ .menu__back__button {
+  right: -100vmin;
+}
+
+#menu__back__button {
+  display: none;
+
+  &:not(:checked) ~ .menu .menu__item {
+      transform: scaleX(0) scaleY(0);
+  }
+
+  &:checked ~ #menu__back__button {
+      bottom: -50%;
+  }
+}
+
+.menu__link {
+  width: 25vw;
+  height: 25vw;
+  display: flex;
+  font-size: 10vw;
+  color: $color-white;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 50%;
+  text-decoration: none;
+  border: 1.5vw solid $color-white;
+}

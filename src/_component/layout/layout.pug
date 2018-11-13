@@ -1,8 +1,10 @@
-- const quoteList = data.data.quote
+-
+    const quoteList = data.data.quote
+    const slug = bla => bla.toLowerCase().trim().replace(/\s+/g, '-')
 
 .content
   .menu__wrapper
-    input#menu__back__button(type="radio" name="")
+    input#menu__back__button(type="radio" name="quoteList")
     .menu__background
       .menu
         - i = 0;
@@ -11,14 +13,20 @@
             - let checked = (i + 1 === quoteList.lenght)
 
             if checked
-                input(type="radio" id=`quote-${i}` name="quoteList"
-                checked).menu__input
+                input(type="radio" id=`quote-${i}` name="quoteList" checked).menu__input
             else
                 input(type="radio" id=`quote-${i}` name="quoteList").menu__input
             
-            .quote(id="#{story.title}")
+            .quote(id=slug(`${quote.title}`))
                 - var quoteIcon = quote.icon.replace(/\s+/g, '-').toLowerCase();
                 h1 #{quote.title}
                 .quote__body
                     each line in quote.lines
                         h2 !{line}
+              
+            section(class=`menu__item ${quote.title}` bla=quote.title)
+              label.menu__link(href=slug(`#${quote.title}`) for=`quote-${i}`)
+              div.menu__label #{quote.title}
+            - i++;
+      label.menu__back_button.live-the-life__icon--menu3(for="menu__back_button")
+          span.menu__label__content Menu
