@@ -1,0 +1,24 @@
+- const quoteList = data.data.quote
+
+.content
+  .menu__wrapper
+    input#menu__back__button(type="radio" name="")
+    .menu__background
+      .menu
+        - i = 0;
+        each quote in quoteList
+            - let className = quote.class || ''
+            - let checked = (i + 1 === quoteList.lenght)
+
+            if checked
+                input(type="radio" id=`quote-${i}` name="quoteList"
+                checked).menu__input
+            else
+                input(type="radio" id=`quote-${i}` name="quoteList").menu__input
+            
+            .quote(id="#{story.title}")
+                - var quoteIcon = quote.icon.replace(/\s+/g, '-').toLowerCase();
+                h1 #{quote.title}
+                .quote__body
+                    each line in quote.lines
+                        h2 !{line}
