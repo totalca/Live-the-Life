@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'live-the-life';
   src:
-    url('asset/font/live-the-life.ttf?jtx80h') format('truetype'),
-    url('asset/font/live-the-life.woff?jtx80h') format('woff'),
-    url('asset/font/live-the-life.svg?jtx80h#live-the-life') format('svg');
+    url('asset/font/live-the-life.ttf?olutk4') format('truetype'),
+    url('asset/font/live-the-life.woff?olutk4') format('woff'),
+    url('asset/font/live-the-life.svg?olutk4#live-the-life') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -53,6 +53,9 @@
 }
 .live-the-life-airplane:before {
   content: "\e9af";
+}
+.live-the-life-menu:before {
+  content: "\e9bd";
 }
 .live-the-life-heart:before {
   content: "\e9da";

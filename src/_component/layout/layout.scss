@@ -132,7 +132,7 @@ $colourIndex: 1;
   transition: 0.25s;
   border-radius: 50%;
   border: 0.5rem solid $color-white;
-  font-size: 4rem;
+  font-size: 300%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -192,3 +192,10 @@ $colourIndex: 1;
       }
   }
 }
+
+// .quote__body {
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//     height: 80vh;
+// }
