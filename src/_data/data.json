@@ -5,7 +5,88 @@
   },
   "quote": [
     {
-      "title": "Smile1",
+      "title": "Sky",
+      "icon": "onedrive",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Camera",
+      "icon": "camera",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Head Phones",
+      "icon": "headphones",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Pacman",
+      "icon": "pacman",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Book",
+      "icon": "book",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Alarm",
+      "icon": "alarm",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Health",
+      "icon": "aid-kit",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Nature",
+      "icon": "leaf",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Travel",
+      "icon": "airplane",
+      "lines": [
+        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
+        "Share your smile with the world. It's a symbol of friendship and peace."
+      ]
+    },
+    {
+      "title": "Smile",
       "icon": "happy",
       "lines": [
         "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
@@ -14,8 +95,8 @@
       ]
     },
     {
-      "title": "Smile2",
-      "icon": "happy",
+      "title": "Love",
+      "icon": "heart",
       "lines": [
         "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
         "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
@@ -23,8 +104,8 @@
       ]
     },
     {
-      "title": "Smile3",
-      "icon": "happy",
+      "title": "Menu",
+      "icon": "home",
       "lines": [
         "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
         "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
@@ -32,80 +113,8 @@
       ]
     },
     {
-      "title": "Smile4",
-      "icon": "happy",
-      "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
-      ]
-    },
-    {
-      "title": "Smile5",
-      "icon": "happy",
-      "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
-      ]
-    },
-    {
-      "title": "Smile6",
-      "icon": "happy",
-      "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
-      ]
-    },
-    {
-      "title": "Smile7",
-      "icon": "happy",
-      "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
-      ]
-    },
-    {
-      "title": "Smile8",
-      "icon": "happy",
-      "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
-      ]
-    },
-    {
-      "title": "Smile9",
-      "icon": "happy",
-      "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
-      ]
-    },
-    {
-      "title": "Smile10",
-      "icon": "happy",
-      "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
-      ]
-    },
-    {
-      "title": "Smile11",
-      "icon": "happy",
-      "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
-      ]
-    },
-    {
-      "title": "Smile12",
-      "icon": "happy",
+      "title": "Home",
+      "icon": "home",
       "lines": [
         "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
         "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",

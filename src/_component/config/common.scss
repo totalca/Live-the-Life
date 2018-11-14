@@ -1,14 +1,14 @@
-$item-width : 20vmin;
+$item-width : 25vmin;
 $total-quotes: 10;
 $total-pages: 12;
 
 %menu__item {
-    position: relative;
-    border-radius: 0.2rem;
-    transition: 0.75s;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  position: relative;
+  border-radius: 0.2rem;
+  transition: 0.75s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 $icomoon-font-path: "../font" !default;

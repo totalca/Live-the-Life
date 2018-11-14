@@ -4,30 +4,28 @@
 
 .content
   .menu__wrapper
-    input#menu__back__button(type="radio" name="quoteList")
-    .menu__background
+      input#menu__back__button(type="radio" name="quoteList")
+      .menu__background
       .menu
-        - i = 0;
-        each quote in quoteList
-            - let className = quote.class || ''
-            - let checked = (i + 1 === quoteList.lenght)
+          - i = 0;
+          each quote in quoteList
+              - let className = quote.class || ''
+              - let checked = (i + 1 === quoteList.lenght)
 
-            if checked
-                input(type="radio" id=`quote-${i}` name="quoteList" checked).menu__input
-            else
-                input(type="radio" id=`quote-${i}` name="quoteList").menu__input
+              if checked
+                  input(type="radio" id=`quote-${i}` name="quoteList" checked).menu__input
+              else
+                  input(type="radio" id=`quote-${i}` name="quoteList").menu__input
             
-            .quote(id=slug(`${quote.title}`))
-                - var quoteIcon = quote.icon.replace(/\s+/g, '-').toLowerCase();
-                h1 #{quote.title}
-                .quote__body
-                    each line in quote.lines
-                        h2 !{line}
-              
-            section(class=`menu__item ${quote.title}` bla=quote.title)
-              label.menu__link(href=slug(`#${quote.title}`) for=`quote-${i}`
-              class=`menu__link live-the-life-${quoteIcon}` )
-              div.menu__label #{quote.title}
-            - i++;
-      label.menu__back_button.live-the-life-home(for="menu__back_button")
+              .quote(id=slug(`${quote.title}`))
+                   - var quoteIcon = quote.icon.replace(/\s+/g, '-').toLowerCase();
+                   h1 #{quote.title}
+                   .quote__body
+                        each line in quote.lines
+                            h2 !{line}
+
+              section(class=`menu__item` bla=quote.title)
+                   label(class=`menu__link live-the-life-${quote.icon}` href=slug(`#${quote.title}`) for=`quote-${i}`)
+              - i++;
+      label.menu__back__button.live-the-life-home(for="menu__back__button")
           span.menu__label__content Menu
