@@ -1,97 +1,87 @@
 {
   "meta": {
     "title": "Live the Life",
-    "description": "In the end, we only regret the chances we didn't take"
+    "description": "In the end, we only regret the chances we didn't take."
   },
   "quote": [
     {
       "title": "Sleep",
       "icon": "alarm",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"Sleep is that golden chain that ties health and our bodies together.\"",
+        "- <strong>Thomas Dekker</strong>"
       ]
     },
     {
       "title": "Nature",
       "icon": "leaf",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"Nature holds the key to our aesthetic, intellectual, cognitive and even spiritual satisfaction.\"",
+        "- <strong>E. O. Wilson</strong>"
       ]
     },
     {
       "title": "Sky",
       "icon": "onedrive",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"The sky is an infinite movie to me. I never get tired of looking at what's happening up there.\"",
+        "- <strong>K. D. Lang</strong>"
       ]
     },
     {
       "title": "Smile",
       "icon": "happy",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"The greatest self is a peaceful smile, that always sees the world smiling back.\"",
+        "- <strong>Bryant H. McGill</strong>"
       ]
     },
     {
       "title": "Love",
       "icon": "heart",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"There is only one happiness in this life, to love and be loved.\"",
+        "- <strong>George Sand</strong>"
       ]
     },
     {
-      "title": "Photo",
+      "title": "Photos",
       "icon": "camera",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"I do not see my family life in any way, shape, or form as an opportunity for a photo.\"",
+        "- <strong>Shania Twain</strong>"
       ]
     },
     {
       "title": "Health",
       "icon": "aid-kit",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.\"",
+        "- <strong>Buddha</strong>"
       ]
     },
     {
-      "title": "Book",
+      "title": "Books",
       "icon": "book",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"Reading is a conversation. All books talk. But a good book listens as well.\"",
+        "- <strong>Mark Haddon</strong>"
       ]
     },
     {
       "title": "Music",
       "icon": "headphones",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"One good thing about music, when it hits you, you feel no pain.\"",
+        "- <strong>Bob Marley</strong>"
       ]
     },
     {
       "title": "Play",
       "icon": "pacman",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"In every real man a child is hidden that wants to play.\"",
+        "- <strong>Friedrich Nietzsche</strong>"
       ]
     },
     {
@@ -99,9 +89,8 @@
       "class": "menu__item__color",
       "icon": "airplane",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"The world is a book, and those who do not travel read only a page.\"",
+        "- <strong>Thomas Jefferson</strong>"
       ]
     },
     {
@@ -109,9 +98,8 @@
       "class": "menu__item__color",
       "icon": "menu",
       "lines": [
-        "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
-        "Lighten up, just enjoy life, smile more, laugh more, and don't get so worked up about things.",
-        "Share your smile with the world. It's a symbol of friendship and peace."
+        "\"A fine quotation is a diamond in the hand of a man of wit and a pebble in the hand of a fool.\"",
+        "- <strong>Joseph Roux</strong>"
       ]
     }
   ]

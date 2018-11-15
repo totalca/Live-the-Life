@@ -8,6 +8,14 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: Quicksand;
+  src: 
+    url('asset/font/quicksand.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 %super-happy {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'live-the-life' !important;
