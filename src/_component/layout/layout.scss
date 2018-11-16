@@ -64,7 +64,7 @@
       position: absolute;
       color:  $color-white;
       top: 100%;
-      font-size: 1.5rem;
+      font-size: 2rem;
       text-align: center;
   }
 }
@@ -123,8 +123,8 @@ $colourIndex: 1;
 
 .menu__back__button {
   position: fixed;
-  width: 7.5rem;
-  height: 7.5rem;
+  width: 8rem;
+  height: 8rem;
   right: 5vw;
   bottom: 8vw;
   color: $color-white;
@@ -158,7 +158,7 @@ $colourIndex: 1;
   align-items: center;
   text-align: center;
   border: 0.5rem solid $color-white;
-  font-size: 4rem;
+  font-size: 6rem;
   width: 100%;
   height: 100%;
   cursor: pointer;
